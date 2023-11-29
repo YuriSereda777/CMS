@@ -41,7 +41,7 @@ These technologies and tools have played a crucial role in shaping CMS into a po
 ## Contributors
 
 CMS is developed and maintained by a passionate team of developers who aim to create a powerful projects.
-Developed by: - [Omar Adel](https://github.com/0xOmarAdel) (Owner & Creator) & [Omar Mohamed](https://github.com/MrGhost23/)
+Developed by: - [Yuri](https://github.com/BMBruce) (Owner & Creator & Developer)
 
 ## License
 
